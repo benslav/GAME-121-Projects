@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d23de31baf0a91409df8e780d17a82c, type: 3}
+  m_Name: TakeOffer
+  m_EditorClassIdentifier: 
+  gameText: '"What''s your offer?" Laurentius gets up and starts pacing, "I need
+    info that only someone of your capabilities could aquire. Take this disc. The
+    rest of the info is on it. Good luck." (Next. press left)'
+  otherStates:
+  - {fileID: 11400000, guid: 76aa20ef36f8e8b47998fd87d223d3db, type: 2}

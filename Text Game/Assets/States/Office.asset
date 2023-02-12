@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d23de31baf0a91409df8e780d17a82c, type: 3}
+  m_Name: Office
+  m_EditorClassIdentifier: 
+  gameText: After wandering for a few minutes you find the office and after checking
+    to see if its empty, you enter. Rummage around (left)? or leave (right)?
+  otherStates:
+  - {fileID: 11400000, guid: 0b675ca2536e90e42af86f96ac5d098b, type: 2}
+  - {fileID: 11400000, guid: fb0d1130ea22dfb46b46c6f791f4e6b6, type: 2}

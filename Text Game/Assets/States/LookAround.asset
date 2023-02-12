@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d23de31baf0a91409df8e780d17a82c, type: 3}
+  m_Name: LookAround
+  m_EditorClassIdentifier: 
+  gameText: 'You investigate security footage taken since the ship left the station.
+    "GOTCHA!" you shout as you see an odd fellow trying to hide a disc as he enters
+    an office. Go to the office (left)? Or go to the ballroom and intercept him (right)? '
+  otherStates:
+  - {fileID: 11400000, guid: 067ae5ce208142f4aa431701f5ded390, type: 2}
+  - {fileID: 11400000, guid: ed9b93494422e814081dac63ecda08d4, type: 2}

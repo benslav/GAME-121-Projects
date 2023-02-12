@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d23de31baf0a91409df8e780d17a82c, type: 3}
+  m_Name: Business
+  m_EditorClassIdentifier: 
+  gameText: '"I know who you really are and whom you work for, so let''s cut to the
+    crap. I propose to you two options. 1. You can finish your mission by killing
+    me and taking this floppy disc or 2. I can offer something better. What''ll it
+    be? Finish the mission (left)? or take the offer (right)?'
+  otherStates:
+  - {fileID: 11400000, guid: e6a1ec04ed311cb429dd2699ae05e801, type: 2}
+  - {fileID: 11400000, guid: cbc47442387010f469b4718cf68268c0, type: 2}
