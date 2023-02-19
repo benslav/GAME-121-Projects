@@ -3,3 +3,5 @@
 2. https://forum.unity.com/threads/what-is-the-best-way-to-delay-a-function.1002040/
 
 3. https://www.javatpoint.com/unity-coroutines
+
+4. http://www.theappguruz.com/blog/how-to-use-coroutines-in-unity
